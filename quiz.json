@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1",
+        "question": "Grand Central Terminal, Park Avenue, New York is the world's",
+        "option1": "largest railway station",
+        "option2": "highest railway station",
+        "option3": "longest railway station",
+        "option4": "None of the above",
+        "correctOption": "option1",
+        "Explanation": "Grand Central Terminal in New York City, USA: Grand Central Terminal is one of the most iconic and busiest railway stations in the world, serving over 750,000 passengers per day. It is located in midtown Manhattan and has 44 platforms, making it one of the largest railway stations by platform count."
+    },
+    {
+        "id": "2",
+        "question": "Entomology is the science that studies",
+        "option1": "Behavior of human beings",
+        "option2": "Insects",
+        "option3": "The origin and history of technical and scientific terms",
+        "option4": "The formation of rocks",
+        "correctOption": "option2",
+        "Explanation": "Entomology: The branch of zoology concerned with the study of insects."
+    },
+    {
+        "id": "3",
+        "question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+        "option1": "Asia",
+        "option2": "Africa",
+        "option3": "Europe",
+        "option4": "Australia",
+        "correctOption": "option2",
+        "Explanation": "No answer description is available. Let's discuss."
+    },
+    {
+        "id": "4",
+        "question": "Garampani sanctuary is located at",
+        "option1": "Junagarh, Gujarat",
+        "option2": "Diphu, Assam",
+        "option3": "Kohima, Nagaland",
+        "option4": "Gangtok, Sikkim",
+        "correctOption": "option2",
+        "Explanation": "No answer description is available. Let's discuss."
+    },
+    {
+        "id": "5",
+        "question": "For which of the following disciplines is Nobel Prize awarded?",
+        "option1": "Physics and Chemistry",
+        "option2": "Physiology or Medicine",
+        "option3": "Literature, Peace and Economics",
+        "option4": "All of the above",
+        "correctOption": "option4",
+        "Explanation": "No answer description is available. Let's discuss."
+    },
+    {
+        "id": "6",
+        "question": "Hitler party which came into power in 1933 is known as",
+        "option1": "Labour Party",
+        "option2": "Nazi Party",
+        "option3": "Ku-Klux-Klan",
+        "option4": "Democratic Party",
+        "correctOption": "option2",
+        "Explanation": "No answer description is available. Let's discuss."
+    },
+    {
+        "id": "7",
+        "question": "FFC stands for",
+        "option1": "Foreign Finance Corporation",
+        "option2": "Film Finance Corporation",
+        "option3": "Federation of Football Council",
+        "option4": "None of the above",
+        "correctOption": "option2",
+        "Explanation": "No answer description is available. Let's discuss."
+    },
+    {
+        "id": "8",
+        "question": "Fastest shorthand writer was",
+        "option1": "Dr. G. D. Bist",
+        "option2": "J.R.D. Tata",
+        "option3": "J.M. Tagore",
+        "option4": "Khudada Khan",
+        "correctOption": "option1",
+        "Explanation": "No answer description is available. Let's discuss."
+    },
+    {
+        "id": "9",
+        "question": "Epsom (England) is the place associated with",
+        "option1": "Horse racing",
+        "option2": "Polo",
+        "option3": "Shooting",
+        "option4": "Snooker",
+        "correctOption": "option1",
+        "Explanation": "No answer description is available. Let's discuss."
+    },
+    {
+        "id": "10",
+        "question": " First human heart transplant operation conducted by Dr. Christiaan Barnard on Louis Washkansky, was conducted in",
+        "option1": "1967",
+        "option2": "1968",
+        "option3": "1958",
+        "option4": "1922",
+        "correctOption": "option1",
+        " Explanation": "Louis Washkansky (1913 - 21 December 1967) was the recipient of the world's first human heart transplant. Washkansky died of double pneumonia eighteen days after the transplant because of a weakened immune system."
+    }
+]

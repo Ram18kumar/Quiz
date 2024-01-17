@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=PT+Serif&family=Poppins:wght@100&display=swap");
+
+*,
+::after,
+::before {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "PT Serif", serif;
+  background: linear-gradient(45deg, red, blue, orange, green);
+  background-size: 300% 300%;
+  animation: color 12s ease-in-out infinite;
+  height: 90vh;
+}
+
+@keyframes color {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
+
+.myStyle {
+  background: rgb(77, 18, 18)
+}
+.start {
+  margin: 0;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 50px 10px 50px;
+  font-size: 50px;
+}
+h1 {
+  font-weight: 900;
+  display: none;
+  color: white;
+}
+.quizCards {
+  display: none;
+  /* display: flex; */
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.display{
+  display: none;
+}
+
+
+.toasts {
+  color: white;
+  width: 18rem;
+  height: 50vh;
+}
+
+.card {
+  box-shadow: 0px 0px 20px 20px rgb(197 19 168 / 55%);
+  width: 18rem;
+  font-size: 3vh;
+  transition: all .3s;
+  animation: wer ease-in 1.8s;
+}
+
+@keyframes wer {
+  0%{
+
+transform: translateY(0px);
+  }
+  50%{
+   
+    transform: translateY(20px);
+  }
+  100%{
+    transform: translateY(0px);
+  }
+
+}
+.card-body {
+  padding: 8px;
+}
+
+.card-text {
+  margin-bottom: 0px;
+}
+
+
+
+@media screen and (max-width: 320px) {
+  .card {
+    width: 14rem;
+  }
+}
